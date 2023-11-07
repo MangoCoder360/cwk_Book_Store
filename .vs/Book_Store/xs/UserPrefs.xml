@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{90C04BB5-41A1-4736-84C2-F1E375299F2E}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Book_Store/Program.cs">
+    <Files>
+      <File FileName="Book_Store/Controllers/HomeController.cs" />
+      <File FileName="Book_Store/Models/Book.cs" />
+      <File FileName="Book_Store/Models/Author.cs" />
+      <File FileName="Book_Store/Controllers/BookController.cs" />
+      <File FileName="Book_Store/Views/Book/Index.cshtml" />
+      <File FileName="Book_Store/Program.cs" Line="39" Column="11" />
+      <File FileName="Book_Store/Models/AppDBContext.cs" Line="19" Column="1" />
+      <File FileName="Book_Store/Models/SeedData.cs" Line="33" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Book_Store" expanded="True">
+            <Node name="Book_Store" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Book__Store PreferredExecutionTarget="/Applications/Arc.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
